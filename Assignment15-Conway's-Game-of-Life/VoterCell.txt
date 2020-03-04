@@ -1,0 +1,8 @@
+Assignment15: VoterCell--The behavior of the new cells. 
+
+The world of the Game is an infinite, two-dimensional orthogonal grid of square cells, each of which is in one of two possible states, alive or dead. Every cell determined by the state of the nearest grid and itself, a total of 9 grids. The Game takes the principle of minority obeying majority to determine whether the central grid will be born or dead next time. At each step in time, the following transitions occur:
+
+1. Any live cell with 4 or more than 4 live neighbors lives.
+2. Any dead cell with 4 or more than 4 live neighbors dies.
+
+ 
