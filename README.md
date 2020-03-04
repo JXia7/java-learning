@@ -1,1 +1,1 @@
-# java-training
+# java-learning
